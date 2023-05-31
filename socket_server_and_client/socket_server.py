@@ -1,3 +1,5 @@
+# Code to create a socket server using python
+
 import socket
 
 def server_program():
