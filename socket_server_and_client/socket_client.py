@@ -1,3 +1,5 @@
+# Code to create a socket client using python
+
 import socket
 
 def client_program():
